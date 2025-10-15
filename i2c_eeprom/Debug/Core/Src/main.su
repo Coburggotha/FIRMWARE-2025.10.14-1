@@ -1,0 +1,12 @@
+../Core/Src/main.c:76:1:__io_putchar	16	static
+../Core/Src/main.c:91:6:I2C_Scan	16	static
+../Core/Src/main.c:132:19:EEPROM_Write	40	static
+../Core/Src/main.c:176:19:EEPROM_Read	32	static
+../Core/Src/main.c:187:6:EEPROM_Test	192	static
+../Core/Src/main.c:277:6:Test_0xB0_Device	80	static
+../Core/Src/main.c:417:5:main	16	static
+../Core/Src/main.c:488:6:SystemClock_Config	72	static
+../Core/Src/main.c:527:13:MX_I2C1_Init	8	static
+../Core/Src/main.c:561:13:MX_USART2_UART_Init	8	static
+../Core/Src/main.c:594:13:MX_GPIO_Init	40	static
+../Core/Src/main.c:640:6:Error_Handler	4	static,ignoring_inline_asm
